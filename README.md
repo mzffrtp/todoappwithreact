@@ -6,4 +6,4 @@
 
 ## You can also try it yourself at: 
 
-![](todolostwithreact.gif)
+![](screen.gif)
